@@ -11,6 +11,7 @@ namespace IlkProjem
         static void Main(string[] args)
         {
             Console.WriteLine("Merhaba Dünya");
+            //Kod yorum satırı
         }
     }
 }
